@@ -38,7 +38,10 @@ Here's an example of a conversation in JSON format that you can use as a templat
   ]
 }
 
-Acknowledgment
-This project utilizes the Text-to-Speech (TTS) service provided by OpenAI. We acknowledge and thank OpenAI for their valuable technology and services.
+Acknowledgements
+OpenAI: This project utilizes the OpenAI API for advanced AI-based image and text processing. Code snippets and guidance from OpenAI's documentation and resources have been instrumental in the development of this project.
+
+Note
+This script is intended as a demonstration and may require modifications for production use.
 
 # text-to-speech
