@@ -3,15 +3,6 @@
 
 Welcome to the Text-to-Speech (TTS) Demo repository! This project demonstrates how to use OpenAI's TTS service to convert text into speech. You can use this code to generate audio from text conversations, like the one provided in the example.
 
-## Table of Contents
-- [Getting Started](#getting-started)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Example Conversation](#example-conversation)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Getting Started
 
 This section provides an overview of the project and how to get started using it.
